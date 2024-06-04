@@ -2,7 +2,7 @@ import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
 import { FormsModule } from '@angular/forms';
-import { LazyImageComponent } from './lazy-image/lazy-image.component';
+import { LazyImageComponent } from './components/lazy-image/lazy-image.component';
 
 
 
